@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "description": "bss-transport-pwa",
+  "author": "Tomasz Wasik Black Stag Studio",
   "license": "MIT",
   "files": [
     "dist/"
@@ -17,5 +18,8 @@
   "devDependencies": {
     "@ionic/core": "^5.0.0",
     "@stencil/core": "^1.8.8"
+  },
+  "dependencies": {
+    "firebase": "^7.13.2"
   }
 }
